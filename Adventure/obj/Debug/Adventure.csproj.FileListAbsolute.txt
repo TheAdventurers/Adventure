@@ -1,0 +1,22 @@
+c:\users\collin\documents\visual studio 2015\Projects\Adventure\Adventure\bin\Debug\Adventure.exe.config
+c:\users\collin\documents\visual studio 2015\Projects\Adventure\Adventure\bin\Debug\Adventure.exe
+c:\users\collin\documents\visual studio 2015\Projects\Adventure\Adventure\bin\Debug\Adventure.pdb
+c:\users\collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+c:\users\collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.exe
+c:\users\collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.pdb
+C:\Users\Collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.csproj.GenerateResource.Cache
+C:\Users\Collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.Resource.en-US.resources
+C:\Users\Collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.Resource.de-DE.resources
+C:\Users\Collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.Resource.actions_de-DE.resources
+C:\Users\Collin\documents\visual studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.Resource.actions_en-US.resources
+E:\Text-based\Adventure\Adventure\bin\Debug\Adventure.exe.config
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.exe
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.pdb
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.Resource.actions_de-DE.resources
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.Resource.actions_en-US.resources
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.Resource.de-DE.resources
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.Resource.en-US.resources
+E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.csproj.GenerateResource.Cache
+E:\Text-based\Adventure\Adventure\bin\Debug\Adventure.exe
+E:\Text-based\Adventure\Adventure\bin\Debug\Adventure.pdb
