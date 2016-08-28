@@ -20,6 +20,3 @@ E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.Resource.en-US.resources
 E:\Text-based\Adventure\Adventure\obj\Debug\Adventure.csproj.GenerateResource.Cache
 E:\Text-based\Adventure\Adventure\bin\Debug\Adventure.exe
 E:\Text-based\Adventure\Adventure\bin\Debug\Adventure.pdb
-C:\Users\Collin\Source\Repos\Adventure\Adventure\bin\Debug\Adventure.exe.config
-C:\Users\Collin\Source\Repos\Adventure\Adventure\obj\Debug\Adventure.exe
-C:\Users\Collin\Source\Repos\Adventure\Adventure\obj\Debug\Adventure.pdb
